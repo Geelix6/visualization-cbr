@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" fill="#0047AB" rx="20"/>
+  <path d="M25 70L40 55L55 65L75 45" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="75" cy="45" r="5" fill="white"/>
+  <circle cx="25" cy="70" r="5" fill="white"/>
+  <circle cx="40" cy="55" r="5" fill="white"/>
+  <circle cx="55" cy="65" r="5" fill="white"/>
+  <circle cx="55" cy="35" r="15" fill="white" />
+  <text x="55" y="40" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#0047AB">₽</text>
+</svg>
